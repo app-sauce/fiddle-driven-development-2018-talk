@@ -5,7 +5,8 @@
   :dependencies
   [[org.clojure/clojure "1.8.0"]
    [com.stuartsierra/component "0.3.2"]
-   [twttr "3.2.0"]]
+   [twttr "3.2.0"]
+   [clojure.java-time "0.3.1"]]
   :profiles
   {:dev
    {:dependencies
