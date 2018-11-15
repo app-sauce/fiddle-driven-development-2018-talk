@@ -3,6 +3,8 @@
 This repository contains supporting code used during the Los Angeles Clojure
 Meetup on November 14th, 2018.
 
+[Slides](fiddle-driven-development-2018-talk-slides.pdf)
+
 # To try out Fiddle Driven Development
 
 This assumes you are running a connected editor.
